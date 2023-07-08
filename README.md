@@ -1,4 +1,4 @@
-Attendance Counter!
+# Attendance Counter!
 
 Quick start:
 
